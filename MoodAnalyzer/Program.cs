@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace MoodAnalyzer
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        //DLL- It is a dynamic link library
+        public static void Main(string[] args)
         {
         }
     }
